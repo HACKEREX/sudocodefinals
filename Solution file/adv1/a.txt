@@ -1,0 +1,5 @@
+find . -name test -print
+
+
+find . -name test* -print -exec ln{s};
+
